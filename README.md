@@ -93,6 +93,6 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/satvikkaul/satvikkaul/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/satvikkaul/satvikkaul/output/snake.svg" alt="Assume this is a snake -------______-----_____--->" />
 
 ###

@@ -22,7 +22,7 @@
 
 ---
 
-### Skills (Skills and Tools)
+### Skills and Tools
 <div>
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,py,tensorflow,sklearn,pandas,numpy,postgres,mysql,sqlite,redis,docker,linux,git,github,js,ts,react,vscode" />
 </div>
@@ -34,7 +34,7 @@
 | Project | What it does | Tech |
 |---|---|---|
 | **Smart Resume Analyzer** | Parses resumes + JDs, scores match, flags gaps, suggests bullets | FastAPI, Python, PostgreSQL, spaCy, TensorFlow, Docker |
-| **NutriSnap (WIP)** | Snap a meal → estimate calories/macros; minimal, fast UI | React/TypeScript, FastAPI, PostgreSQL, Docker, CV model |
+| **NutriSnap (In Progress)** | Snap a meal → estimate calories/macros; minimal, fast UI | React/TypeScript, FastAPI, PostgreSQL, Docker, CV model |
 
 
 ### Quick Repo Links
@@ -47,14 +47,6 @@
 - Robust **backend APIs** (auth, uploads, background jobs, testing)
 - Clean **React/TS** front-ends (state mgmt, forms, accessibility)
 - Practical **ML**: small models that improve UX & decisions
-
----
-
-### Stats
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=satvikkaul&layout=compact&langs_count=6&card_width=360&theme=dracula&hide_border=true" alt="Top languages" />
-  <img height="160" src="https://streak-stats.demolab.com?user=satvikkaul&theme=dark&hide_border=true&border_radius=8" alt="GitHub Streak" />
-</div>
 
 ---
 
